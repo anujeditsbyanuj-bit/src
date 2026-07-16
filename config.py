@@ -21,7 +21,7 @@ def _require(name: str, default: str = "") -> str:
 # Telegram Bot Credentials
 # ==============================
 
-BOT_TOKEN = _require("BOT_TOKEN", "8751062794:AAEFwtYHi_Ml0R5gyEV9bawX6qDAILniBYw")
+BOT_TOKEN = _require("BOT_TOKEN", "8694198519:AAHkfsd2hG584oC92jM-Ee2PJd2snDy49qM")
 API_ID = int(_require("API_ID", "37476811"))
 API_HASH = _require("API_HASH", "7aa60670b871050820086c6267371ee6")
 
